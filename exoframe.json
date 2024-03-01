@@ -1,5 +1,5 @@
 {
   "name": "simple_server",
-  "domain": "ledialuli-simple.xf.mkrs.link",
+  "domain": "ledialuli-simple-cicd.xf.mkrs.link",
   "port": "5000"
 }
